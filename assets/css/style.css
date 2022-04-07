@@ -79,3 +79,20 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+.footer {
+    margin-top: 2%;
+    text-align: center;
+    border-top: 3px solid darkred;
+    padding-top: 10px;
+    max-width: 100%;
+}
+.header {
+    margin-bottom: 2%;
+    text-align: center;
+    border-bottom: 3px solid darkred;
+    padding-top: 10px;
+    max-width: 100%;
+}
+.highlight {
+    color: darkred;
+}
